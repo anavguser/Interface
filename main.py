@@ -1,9 +1,4 @@
-from dotenv import load_dotenv
-import os
 import pandas as pd
-import numpy as np
-from supabase import create_client, Client
-from postgrest.exceptions import APIError
 import streamlit as st
 
 
